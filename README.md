@@ -1,15 +1,5 @@
-# Window Firefox Extension
-## Description
+# window Button - Firefox Extension
+one-click browser cycle window mod extension.
 
-The Window Firefox Extension is a simple but useful browser extension that allows you to window the entire Firefox window with a single click of the extension icon. It's designed for convenience, particularly for users who prefer a quick way to exit their browser session.
-
-This extension is open-source, and we welcome contributions from the community to improve its functionality or fix issues.
-
-## Features
-
-- window the entire Firefox window with a single click.
-- Minimalistic design with a discreet icon in the browser toolbar.
-
-## Installation
-
-You can install this extension from the [Mozilla Add-ons website](...) or manually load it as a temporary extension:
+# Instalation 
+You can install this extension from the [Mozilla Add-ons website](https://addons.mozilla.org/en-US/firefox/addon/window-custom-buttons/) or manually download and install from releases.
